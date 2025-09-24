@@ -1,0 +1,15 @@
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-4-game-of-sticks-littlerobotgames\Sticks\bin\Debug\net8.0\Sticks.exe
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-4-game-of-sticks-littlerobotgames\Sticks\bin\Debug\net8.0\Sticks.deps.json
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-4-game-of-sticks-littlerobotgames\Sticks\bin\Debug\net8.0\Sticks.runtimeconfig.json
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-4-game-of-sticks-littlerobotgames\Sticks\bin\Debug\net8.0\Sticks.dll
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-4-game-of-sticks-littlerobotgames\Sticks\bin\Debug\net8.0\Sticks.pdb
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-4-game-of-sticks-littlerobotgames\Sticks\obj\Debug\net8.0\Sticks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-4-game-of-sticks-littlerobotgames\Sticks\obj\Debug\net8.0\Sticks.AssemblyInfoInputs.cache
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-4-game-of-sticks-littlerobotgames\Sticks\obj\Debug\net8.0\Sticks.AssemblyInfo.cs
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-4-game-of-sticks-littlerobotgames\Sticks\obj\Debug\net8.0\Sticks.csproj.CoreCompileInputs.cache
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-4-game-of-sticks-littlerobotgames\Sticks\obj\Debug\net8.0\Sticks.sourcelink.json
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-4-game-of-sticks-littlerobotgames\Sticks\obj\Debug\net8.0\Sticks.dll
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-4-game-of-sticks-littlerobotgames\Sticks\obj\Debug\net8.0\refint\Sticks.dll
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-4-game-of-sticks-littlerobotgames\Sticks\obj\Debug\net8.0\Sticks.pdb
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-4-game-of-sticks-littlerobotgames\Sticks\obj\Debug\net8.0\Sticks.genruntimeconfig.cache
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-4-game-of-sticks-littlerobotgames\Sticks\obj\Debug\net8.0\ref\Sticks.dll
